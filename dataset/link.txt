@@ -1,0 +1,9 @@
+
+Download the Dataset from:
+
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+And put all the content inside this folder.
+
+
+
